@@ -1,0 +1,7 @@
+Everyone is boring with a capacity for magics, some with a higher ability than others
+speed is applied per type of move (fire for magic, sword for physical etc) and allows those moves to go first and possibly multiple times at once
+entities can go multiple times if the speed of a move is at least a 2x the enemy's move
+-change Story from arrays to arraylists
+-changing items has to handle the loss of stats from one item then the gaining of stats from another(may do this for defensive stats only)
+-moves should return the amount of damage they do, and will take in players items for that calculation
+-method to ask for the players name, probably called as part of the story, possibly a characer asking for their name
